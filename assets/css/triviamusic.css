@@ -1,0 +1,88 @@
+body {
+  font-family: 'Merienda One', cursive;
+  margin: 0%;
+  padding: 0%;
+  background-color: #DDF3FE;
+}
+
+header {
+  border-bottom: 2px solid #CED4DA;
+}
+
+/*estilos del header*/
+#trivia {
+  font-size: 2.5em;
+  text-align: center;
+  margin-top: 2%;
+}
+
+/*icono*/
+#icono {
+  width: 100%;
+  margin-top: 10%;
+}
+
+h2 {
+  text-align: center;
+  font-size: 4em;
+}
+
+#btnStart {
+  width: 100%;
+  height: 115%;
+  color: white;
+  border-color: #fff;
+  font-size: 3em;
+  margin-top: 10%;
+}
+
+#btnTrueFalse,#btnMultipleChoice {
+  margin-top: 5%;
+  width: 100%;
+  height: 115%;
+  color: white;
+  border-color: #fff;
+  font-size: 3em;
+  margin-top: 10%;
+}
+
+#container {
+  border: 2px solid black;
+  border-radius: 2em;
+  margin-top: 15%;
+  height: 45vh;
+  padding-top: 5%;
+  font-size: 2em;
+}
+
+.question {
+  margin-top: 15%;
+  margin-bottom: 5%;
+}
+
+.btnTrue,.btnFalse {
+  margin-top: 5%;
+  width: 100%;
+  height: 115%;
+  color: white;
+  border-color: #fff;
+  font-size: 1em;
+  margin-top: 10%;
+}
+
+#rowMultiple {
+  margin-top: 15%;
+}
+
+#rowMultiple p {
+  font-size: 2.5em;
+}
+
+#btnRespuestas button {
+  width: 100%;
+  height: 25%;
+  color: white;
+  border-color: #fff;
+  font-size: 4em;
+  margin-top: 5%;
+}

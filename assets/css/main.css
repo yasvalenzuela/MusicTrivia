@@ -1,0 +1,83 @@
+body {
+  font-family: 'Merienda One', cursive;
+  margin: 0%;
+  padding: 0%;
+  background-color: #DDF3FE;
+}
+
+header {
+  border-bottom: 2px solid #CED4DA;
+}
+
+/*estilos del header*/
+#trivia {
+  font-size: 2.5em;
+  text-align: center;
+  margin-top: 2%;
+}
+
+/*icono*/
+#icono {
+  width: 70%;
+  margin-top: 10%;
+  margin-left: 15%;
+}
+
+h2 {
+  text-align: center;
+  font-size: 3.5em;
+}
+
+/*input email*/
+#usuario{
+  margin-top: 15%;
+  height: 40%;
+  margin-bottom: 10%;
+  font-size: 35px;
+}
+
+/*input password*/
+#clave{
+  height: 70%;
+  margin-bottom: 10%;
+  font-size: 35px;
+}
+
+/*botones*/
+button {
+  width: 100%;
+  height: 115%;
+  color: white;
+  border-color: #fff;
+  font-size: 35px;
+  margin-top: 2%;
+}
+
+#rowBtn {
+  margin-bottom: 5%;
+}
+
+#btnSesion,#btnSesionFace{
+  font-size: 2.2em;
+}
+
+#rowLine {
+  margin-top: 10%;
+}
+
+#line,#line2 {
+  color: #000;
+  font-weight: 900px;
+}
+
+#pPostLine {
+  color: #000;
+  font-size: 32px;
+  text-align: center;
+}
+
+
+i {
+  margin-right: 2%;
+}
+
